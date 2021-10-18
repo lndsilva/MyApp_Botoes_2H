@@ -13,6 +13,13 @@
         android:layout_margin="20dp"
         android:orientation="vertical">
 
+        <ImageView
+            android:layout_marginBottom="30dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/pets"/>
+
         <EditText
             android:id="@+id/edtUsuario"
             android:layout_width="match_parent"
